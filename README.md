@@ -15,4 +15,5 @@ Unity入门精要实践练习
 <img src="Assets\shader\RampTexture\Ramp.png" width=350> | 渐变纹理
 <img src="Assets\shader\Shadow\AlphaTestShadow\res.png" width=350> | 通过深度测试的阴影
 <img src="Assets\shader\Transparent\Blend\res.png" width=350> | 混合
+<img src="Assets\shader\Water\res.gif" width=350> | 水面波动和折射
 
